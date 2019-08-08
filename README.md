@@ -21,8 +21,9 @@ GraphQL
 #### End to end testing
 CI/CD. 
 
-###Inspiration
-![Serverless Airline Booking sample](./media/prototype-web.png)
+### Credits 
+
+##### https://github.com/aws-samples/aws-serverless-airline-booking.git
 
 ![Serverless Airline Initial Architecture](./media/prototype-architecture.png)
 
