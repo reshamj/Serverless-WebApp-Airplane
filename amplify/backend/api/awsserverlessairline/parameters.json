@@ -1,0 +1,10 @@
+{
+    "AppSyncApiName": "awsserverlessairline",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "AuthCognitoUserPoolId": {
+        "Fn::GetAtt": [
+            "authcognitoa7d29d9d",
+            "Outputs.UserPoolId"
+        ]
+    }
+}
